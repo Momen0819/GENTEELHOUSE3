@@ -1,4 +1,4 @@
-$(function () {
+<--$(function () {
 
     $.ajax({
         url: '/Login/Trank',
@@ -8,4 +8,4 @@ $(function () {
         }
     })
 
-})
+})--!>
