@@ -1,11 +1,11 @@
-<--$(function () {
+//$(function () {
 
-    $.ajax({
-        url: '/Login/Trank',
-        type: 'Get',
-        success: function (data) {
+   // $.ajax({
+   //     url: '/Login/Trank',
+   //     type: 'Get',
+   //     success: function (data) {
            
-        }
-    })
+   //     }
+   // })
 
-})--!>
+//})
